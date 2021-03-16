@@ -1,0 +1,20 @@
+C:\Users\dmini\source\repos\SQLite ORM\SQLite ORM\bin\Debug\SQLite ORM.exe.config
+C:\Users\dmini\source\repos\SQLite ORM\SQLite ORM\bin\Debug\SQLite ORM.exe
+C:\Users\dmini\source\repos\SQLite ORM\SQLite ORM\bin\Debug\SQLite ORM.pdb
+C:\Users\dmini\source\repos\SQLite ORM\SQLite ORM\bin\Debug\System.Data.SQLite.dll
+C:\Users\dmini\source\repos\SQLite ORM\SQLite ORM\bin\Debug\System.Data.SQLite.xml
+C:\Users\dmini\source\repos\SQLite ORM\SQLite ORM\obj\Debug\SQLite ORM.csprojAssemblyReference.cache
+C:\Users\dmini\source\repos\SQLite ORM\SQLite ORM\obj\Debug\SQLite ORM.csproj.CoreCompileInputs.cache
+C:\Users\dmini\source\repos\SQLite ORM\SQLite ORM\obj\Debug\SQLite ORM.csproj.CopyComplete
+C:\Users\dmini\source\repos\SQLite ORM\SQLite ORM\obj\Debug\SQLite ORM.exe
+C:\Users\dmini\source\repos\SQLite ORM\SQLite ORM\obj\Debug\SQLite ORM.pdb
+D:\c#\lesson17\SQLite ORM (2)\SQLite ORM\SQLite ORM\bin\Debug\SQLite ORM.exe.config
+D:\c#\lesson17\SQLite ORM (2)\SQLite ORM\SQLite ORM\bin\Debug\SQLite ORM.exe
+D:\c#\lesson17\SQLite ORM (2)\SQLite ORM\SQLite ORM\bin\Debug\SQLite ORM.pdb
+D:\c#\lesson17\SQLite ORM (2)\SQLite ORM\SQLite ORM\bin\Debug\System.Data.SQLite.dll
+D:\c#\lesson17\SQLite ORM (2)\SQLite ORM\SQLite ORM\bin\Debug\System.Data.SQLite.xml
+D:\c#\lesson17\SQLite ORM (2)\SQLite ORM\SQLite ORM\obj\Debug\SQLite ORM.csprojAssemblyReference.cache
+D:\c#\lesson17\SQLite ORM (2)\SQLite ORM\SQLite ORM\obj\Debug\SQLite ORM.csproj.CoreCompileInputs.cache
+D:\c#\lesson17\SQLite ORM (2)\SQLite ORM\SQLite ORM\obj\Debug\SQLite ORM.csproj.CopyComplete
+D:\c#\lesson17\SQLite ORM (2)\SQLite ORM\SQLite ORM\obj\Debug\SQLite ORM.exe
+D:\c#\lesson17\SQLite ORM (2)\SQLite ORM\SQLite ORM\obj\Debug\SQLite ORM.pdb
